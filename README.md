@@ -1,7 +1,7 @@
-# 🚀 Git Command Showcase & Documentation
-Welcome to the ultimate Git command cheat sheet! This repository serves as a quick-reference guide for fundamental Git operations used in version control and team collaboration.
+# Git Command Showcase & Documentation
+Welcome to the  Git command cheat sheet! This repository serves as a quick-reference guide for fundamental Git operations used in version control and team collaboration.
 ---
-## 🛠️ Core Tools Overview
+## Core Tools Overview
 Below is a quick breakdown of the primary tools utilized in this project:
 
 | Tool | Purpose |
@@ -10,8 +10,8 @@ Below is a quick breakdown of the primary tools utilized in this project:
 | **Markdown** | Professional Documentation Formatting |
 
 ---
-## 📋 Essential Git Commands
-### 🗂️ Setup & Status
+##  Essential Git Commands
+### Setup & Status
 * **Clone Repository**
   ```bash
   git clone <repository-url>
